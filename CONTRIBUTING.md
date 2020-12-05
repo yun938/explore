@@ -1,4 +1,4 @@
-# Contributing
+Contributing
 
 Hi there! We're excited you've got ideas to improve topics and collections. You're helping the community discover valuable information.
 
@@ -13,7 +13,7 @@ As you write content, check out the [Style Guide](./docs/styleguide.md) to learn
 
 Note: Updates won't immediately appear once we've merged your PR. We pull in these changes regularly to GitHub.
 
-## Improving an existing topic or collection
+Improving an existing topic or collection
 
 If a topic or collection already exists, it will be listed in its respective directory:
 
@@ -24,11 +24,11 @@ The topic or collection name should match its URL, e.g. `https://github.com/topi
 
 To make an improvement, please **open a pull request** with your proposed changes:
 
-### Update the image
+Update the image
 
 To update the image, simply replace the image inside the directory for the topic or collection.
 
-### Update text and links
+Update text and links
 
 To update text and links, edit the `index.md` inside the topic or collection's directory. These files are formatted using a combination of [Front Matter](https://jekyllrb.com/docs/frontmatter/) and simple body content.
 
@@ -80,7 +80,7 @@ The [pull request template](./.github/PULL_REQUEST_TEMPLATE.md) also provides gu
 
 **Please fill out the pull request template completely.** If you do not fill out the template, your PR will be closed.
 
-## Curating a new topic or collection
+Curating a new topic or collection
 
 If a topic or collection is not yet curated, it will NOT be listed in its respective directory.
 
@@ -94,11 +94,11 @@ This repository includes [a list of the most-used GitHub topics that don't yet h
 
 **Please fill out the pull request template completely.** If you do not fill out the template, your pull request will be closed.
 
-## Guidelines
+Guidelines
 
 * Avoid conflicts of interest. Maintainers of a project cannot add a topic or collection for their own project. If a topic is popular enough to warrant inclusion, someone else will add or improve it.
 
-## Running tests
+Running tests
 
 There are some lint tests in place to ensure each topic is formatted in the way we expect. Travis
 CI will run the tests automatically. If you want to run the tests yourself locally, you will need
